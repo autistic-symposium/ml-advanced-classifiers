@@ -2,7 +2,7 @@
 Advanced Machine Learning
 =========================
 
-This folder contain many algorithms that I wrote for the graduate Machine Learning class at Stony Brook University, with Prof. Akoglu.
+This folder contain many algorithms that I wrote for the graduate Machine Learning class at Stony Brook University.
 
 Algoritihms:
 ------------
@@ -13,7 +13,11 @@ Algoritihms:
 
 * kNN vs. SVM
 
-It also contains all my homeworks. For the final project about classifying complex networks, please refer to the specific repository.
+* Expectation Maximization 
+
+* Hidden Markov Chain
+
+It also contains the theory from mt homework. For the final project about classifying complex networks, please refer to the specific repository.
 
 
 Disclaimer:
