@@ -1,0 +1,24 @@
+{
+  "lines.linewidth": 2.0,
+  "examples.download": true,
+  "axes.edgecolor": "#bcbcbc",
+  "patch.linewidth": 0.5,
+  "legend.fancybox": false,
+  "axes.color_cycle": [
+    "#FF4848",
+    "#800080",
+    "#5757FF",
+    "#1FCB4A",
+    "#D9C400",
+    "#F70000",
+    "#0000CE"
+  ],
+  "axes.facecolor": "#eeeeee",
+  "axes.labelsize": "large",
+  "axes.grid": true,
+  "patch.edgecolor": "#eeeeee",
+  "axes.titlesize": "x-large",
+  "svg.embed_char_paths": "path",
+  "examples.directory": "",
+  "font.size": 12
+}
