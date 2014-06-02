@@ -115,22 +115,22 @@ def main():
 
         score_train, score_test = classifier.run_adaboost(X_train, Y_train, T, X_test)
 
-	error_train = calculate_error(T, score_train, Y_train)
-	error_test = calculate_error(T, score_test, Y_test)
+	    error_train = calculate_error(T, score_train, Y_train)
+        error_test = calculate_error(T, score_test, Y_test)
 	
-	all_errors_train.append(error_train)
-	all_errors_test.append(error_test)
+	   all_errors_train.append(error_train)
+	   all_errors_test.append(error_test)
    
 
     # calculates the average errors
     for j in range(T):
-            a_e_train = 0
+        a_e_train = 0
 	    a_e_test = 0
 	    for i in range(num_sets):
-		a_e_train += all_errors_train[i][j]
-		a_e_test += all_errors_test[i][j]
+		   a_e_train += all_errors_train[i][j]
+		   a_e_test += all_errors_test[i][j]
         
-            aver_error_train.append(a_e_train/num_sets)
+        aver_error_train.append(a_e_train/num_sets)
 	    aver_error_test.append(a_e_test/num_sets)
   
 

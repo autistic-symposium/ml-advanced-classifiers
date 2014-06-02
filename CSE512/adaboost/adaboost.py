@@ -54,7 +54,9 @@ class AdaBoost(object):
            self.e = epsilon
 	   
            # Calculates alpha
-           alpha = 0.5*math.log((1-epsilon)/(epsilon*1.0)+0.00001)
+           inside = abs( (1-epsilon)/(epsilon*1.0)+0.00001 )
+           print inside
+           alpha = 0.5*math.log(inside)
            self.alpha.append(alpha)
      
            # Updates the weights
