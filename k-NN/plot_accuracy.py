@@ -10,18 +10,12 @@ import pylab
 import os
 import numpy as np
 
-__author__ = """Mari Wahl"""
+__author__ = """Marina von Steinkirch"""
 
 # plot config
 pylab.rcParams.update({'font.size': 12})
 color = ['#FF4848', '#800080', '#5757FF', '#1FCB4A', '#D9C400', '#F70000', '#0000CE', '#FF800D', '#23819C']
 marker = ['o', 'v', 's', '*', 'D', '>', '<', 'p', '8']
-
-
-    
-  
-	    
-
 
 
    
