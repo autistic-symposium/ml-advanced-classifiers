@@ -8,7 +8,7 @@ import numpy as np
 import scipy.io
 
 
-__author__ = """Mari Wahl"""
+__author__ = """Marina von Steinkirch"""
 
 
 def cosineDistance(x, y):
