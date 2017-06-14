@@ -11,7 +11,7 @@ import scipy.io
 from calculate_cosine_distance import cosineDistance
 
 
-__author__ = """Mari Wahl"""
+__author__ = """Marina von Steinkirch"""
 
 
 
