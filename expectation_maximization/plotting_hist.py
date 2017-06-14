@@ -9,9 +9,6 @@ import numpy as np
 import json
 
 
-
-
-
 def gaussian(x, theta, mu):
     return theta * np.exp(-1.0 * np.square(x - mu)/ 2.0) / np.sqrt(2.0 * np.pi)
 
