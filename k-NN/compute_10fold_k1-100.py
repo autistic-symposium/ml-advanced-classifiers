@@ -12,7 +12,7 @@ from kNN import calculate_knn, loading_data
 from nkNN import divide_data_folds, return_data_nminusone
 
 
-__author__ = """Mari Wahl"""
+__author__ = """Marina von Steinkirch"""
 
 
 if __name__ == '__main__':
