@@ -9,7 +9,7 @@ import scipy.io
 from kNN import loading_data
 
 
-__author__ = """Mari Wahl"""
+__author__ = """Marina von Steinkirch"""
 
 
 def divide_data_folds(traindata, trainlabels, n):
