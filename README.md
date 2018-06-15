@@ -1,6 +1,8 @@
 #  🌸 Advanced Machine Learning  🌸
 
 
+![](IMG_0002.jpg)
+
 ## Algorithms:
 
 * Naive Bayes vs. Logistic Regression
