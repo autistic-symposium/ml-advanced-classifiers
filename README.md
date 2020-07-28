@@ -1,5 +1,8 @@
 #  Advanced Machine Learning - Stony Brook Graduate Classs
 
+![STONY BROOK](stony.jpeg)
+
+
 ## Algorithms:
 
 * Naive Bayes vs. Logistic Regression
