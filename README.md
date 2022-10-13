@@ -1,5 +1,6 @@
 #  Advanced Machine Learning Research
 
+<br>
 
 ### Algorithms implemented in this research:
 
