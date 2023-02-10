@@ -1,22 +1,24 @@
-#  Advanced Machine Learning Research
+#  Advanced Machine Learning Classifiers Research
 
 <br>
 
 ### Algorithms implemented in this research:
 
-* Naive Bayes vs. Logistic Regression
+<br>
 
-* Adaboost
+* [Naive Bayes vs. Logistic Regression](naive_bayes_vs_logistic_regression)
+* [Adaboost](adaboost)
+* [kNN vs. SVM](k-NN)
+* [Expectation Maximization](expectation_maximization)
+* [Hidden Markov Chain](hidden_markov_model)
 
-* kNN vs. SVM
-
-* Expectation Maximization
-
-* Hidden Markov Chain
+<br>
 
 ---
 
 ## Installation
+
+<br>
 
 Install dependencies in a virtual environment:
 
@@ -26,6 +28,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+<br>
 
 ----
 
