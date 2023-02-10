@@ -2,7 +2,7 @@
 
 <br>
 
-### Algorithms implemented in this research:
+### Implemented Algorithms
 
 <br>
 
