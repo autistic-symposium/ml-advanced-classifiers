@@ -1,44 +1,13 @@
-# Advanced Machine Learning
+## advanced machine learning classifiers research
 
+<br>
 
-This folder contain many algorithms that I wrote for the graduate Machine Learning class at Stony Brook University.
+#### 👉🏼 my algorithms and experiments from grad school:
 
----
-## Algorithms:
+<br>
 
-* Naive Bayes vs. Logistic Regression
-
-* Adaboost
-
-* kNN vs. SVM
-
-* Expectation Maximization
-
-* Hidden Markov Chain
-
-It also contains the theory from mt homework. For the final project about classifying complex networks, please refer to the specific repository.
-
-
-
-----
-## Installation
-
-
-
-```
-$ pip install -r requirements.txt
-```
-
-
-
-
-
-----
-## License
-
-When making a reference to my work, please use my [website](http://bt3gl.github.io/index.html).
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
-
+* **[naive bayes vs. logistic regression](naive_bayes_vs_logistic_regression)**
+* **[adaboost](adaboost)**
+* **[kNN vs. SVM](k-NN)**
+* **[expectation maximization](expectation_maximization)**
+* **[hidden markov chain](hidden_markov_model)**
